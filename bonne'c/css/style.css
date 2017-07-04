@@ -378,6 +378,10 @@ small{
 		margin: 0 auto;
 	}
 
+	.background-attachment{
+		height: 80px;
+	}
+
 	.container{
 		padding: 20px 0px;
 	}
@@ -494,6 +498,10 @@ small{
 
 	.close{
 		margin-top: 20px;
+	}
+
+	.footer{
+			height: 80px;
 	}
 
 }
